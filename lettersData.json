@@ -1,0 +1,25 @@
+[
+  {
+    "to": "elenka220890@mail.ru",
+    "subject": "Selenium Test data provider",
+    "text": "Hi!",
+    "files":[
+      ".\\pics\\1.txt",
+      ".\\pics\\2.txt"
+    ]
+  },
+  {
+    "to": "elenka220890@mail.ru",
+    "subject": "Selenium Test data provider 2",
+    "text": "Hi!2",
+    "files":[
+      ".\\pics\\1.txt",
+      ".\\pics\\1.png"
+    ]
+  },
+  {
+    "to": "elenka220890@mail.ru",
+    "subject": "Selenium Test data provider 3",
+    "text": "Hi!2"
+  }
+]
