@@ -1,6 +1,6 @@
 # serenirtyEmailSender
 
-Test Test for sending letters to different recipients, with different titles and attachments
+Test for sending letters to different recipients, with different titles and attachments
 
 
 Tests written using Java + Maven + JUnit + Serenity-BDD
